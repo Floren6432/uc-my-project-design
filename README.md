@@ -6,7 +6,7 @@ This repository contains the source codes developed for my Project Design subjec
 </p>
 
 ## **Features**
-1. A pyton script that reads inputs from the Logitech G29 steering wheel using the <ins>pygame</ins> library and translates steering angles into directional commands which are "**LEFT**", "**RIGHT**", and "**NEUTRAL**". These **_commands_** will be sent to a connected Arduino via <ins>pyserial</ins>.
+1. A python script that reads inputs from the Logitech G29 steering wheel using the <ins>pygame</ins> library and translates steering angles into directional commands which are "**LEFT**", "**RIGHT**", and "**NEUTRAL**". These **_commands_** will be sent to a connected Arduino via <ins>pyserial</ins>.
 2. Arduino code interprets incoming commands and drives two BTS7960 motor drivers to control dual linear actuators.
 
 <p align="center">
