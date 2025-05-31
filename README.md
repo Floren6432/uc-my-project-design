@@ -23,7 +23,7 @@ This repository contains the source codes developed for my Project Design subjec
 
 **Schematic**
 <p align="center">
-  <img src = http://github.com/Floren6432/uc-my-project-design/blob/main/Schematic%20Diagram/Schematic_Schematic_of_Immersive_Chair_Base.png />
+  <img src = "Schematic Diagram/Schematic_Schematic_of_Immersive_Chair_Base.png" />
 </p>
 
 **Note**
