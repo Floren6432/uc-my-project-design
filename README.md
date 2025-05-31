@@ -22,9 +22,9 @@ This repository contains the source codes developed for my Project Design subjec
 2. Python (Since the development of the project, codes that were written in Python have been in version 3.13)
 
 **Schematic**
-<div align="center">
+<p align="center">
   ![Schematic of the Project](http://github.com/Floren6432/uc-my-project-design/blob/main/Schematic%20Diagram/Schematic_Schematic_of_Immersive_Chair_Base.png)
-</div>
+</p>
 
 **Note**
 1. The steering angle thresholds for determining "LEFT" (≥ +60°), "RIGHT" (≤ –60°), and "NEUTRAL" (between –60° and +60°) are hardcoded in the Python script, **_wheel_code_project_design.py_**. You can change these by modifying the values in the conditional statements within the script. For example, in  **_LINE 33_** "if steering_angle <= -60:", if we want this to be like –120° then we can write this as "if steering_angle <= -120:".
